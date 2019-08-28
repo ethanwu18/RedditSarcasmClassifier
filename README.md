@@ -6,7 +6,7 @@ The code for our final project for STOR 565 Spring 2019 class at UNC
 ## Sarcasm & Scores in Reddit Comments
 #### Jonah Soberano, Nidhi Murlidhar, Ethan Wu, Stephanie Jung, and Paul Song
 
-[Project Report]()<br />
+[Project Report](https://github.com/jonahsoberano/stor565-final-project/blob/master/STOR%20565%20Report.pdf)<br />
 [Kaggle Link](https://www.kaggle.com/danofer/sarcasm)
 
 ### Description
